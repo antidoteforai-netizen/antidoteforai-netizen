@@ -2,7 +2,7 @@
 
 Depuis 10 ans, j'aide les entreprises à construire et déployer leur produit, en réduisant la friction, la ressaisie et la charge mentale de leurs utilisateurs. Je commence chaque projet en faisant parler ceux qui utilisent le produit, puis je couvre toutes les phases, de l'atelier de cadrage à la mise en production.
 
-Je ne suis pas ingénieure. Je me suis formée à l'automatisation, au no-code et à l'IA pour tester une idée en quelques jours au lieu de plusieurs semaines. Ce GitHub montre cette partie de mon travail : concevoir, puis construire et vérifier moi-même.
+Ce GitHub montre cette partie de mon travail : concevoir, puis construire et vérifier moi-même.
 
 ### Projets à voir
 
