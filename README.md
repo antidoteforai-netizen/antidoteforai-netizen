@@ -6,7 +6,7 @@ Depuis 10 ans, j'aide les entreprises à construire et déployer leur produit, e
 
 | Projet | Description |
 |---|---|
-| [**Product Skills**(https://github.com/antidoteforai-netizen/product-skills)] | Gérer des projets clients du brief initial à la livraison avec la puissance des agents IA |
+| [**Product Skills**](https://github.com/antidoteforai-netizen/product-skills)] | Gérer des projets clients du brief initial à la livraison avec la puissance des agents IA |
 | [**Toolbox**](https://github.com/antidoteforai-netizen/Toolbox) | Ma boîte à outils publique : veille UX/UI/IA, tutoriels pas-à-pas, guides et prompts |
 | [**Politik**](https://github.com/antidoteforai-netizen/politik) | Un site de données publiques sur le Gouvernement, la sécurité et l'argent public : une page par ministère, un niveau de confiance et une source sur chaque chiffre, et une version en facile à lire et à comprendre (FALC). [Voir le site](https://politik-eta.vercel.app/) |
 | [**CORTEX**](https://github.com/antidoteforai-netizen/CORTEX) | Un programme d'apprentissage de l'IA conçu comme un produit : spécification, décisions de design tracées, [prototype cliquable](https://antidoteforai-netizen.github.io/CORTEX/prototypes/dashboard-cortex.html) |
