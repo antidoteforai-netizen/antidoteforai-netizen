@@ -29,6 +29,8 @@ Tout le monde devrait s'emparer du design pour remettre du lien au cœur de la s
 · Apprentissage à l'heure de l'IA lorsque l'on est pas ingénieur
 · Génération d'images et de vidéos
 
-### Me contacter
-[Portfolio] (https://opaline.design/)
-[LinkedIn](https://www.linkedin.com/in/opalinemustiere/)
+### Où me suivre
+[**Portfolio**](https://opaline.design/) 
+[**Toolbox**](https://github.com/antidoteforai-netizen/Toolbox)
+[**X**](https://x.com/opalinedesign)
+[**LinkedIn**](https://www.linkedin.com/in/opalinemustiere/)
